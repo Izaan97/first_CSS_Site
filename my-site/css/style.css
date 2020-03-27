@@ -1,0 +1,158 @@
+.body{
+  margin: 0;
+}
+
+.top-container {
+  color: #40514E;
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  width: 4%;
+  margin: 50px auto 50px auto;
+}
+
+
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.middle-container {}
+
+
+.pro {
+  text-decoration: underline;
+}
+
+.hello{
+  color: #66BFBF;
+}
+.hello-paragraph{
+  color: #40514E;
+}
+
+.food-heading{
+  color: #11999E;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.computer-img {
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chilli-pic {
+  width: 25%;
+  float: right;
+  margin-left: 50px;
+}
+
+.myphoto {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  margin-top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 120px auto;
+  line-height: 2;
+  text-align: left;
+
+}
+
+
+.contact-me{
+  width: 50%;
+  margin: 50px auto 100px auto;
+  line-height: 2;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0px 20px;
+}
+
+.hot-wings-paragraph{
+  color: #40514E;
+}
+
+a{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  text-decoration: none;
+  margin: auto 30px auto 30px;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+.contact-me {
+  width: 35%;
+  color: #11999E;
+}
+
+.copy-right{
+  padding: 50px 0px 0px;
+  font-size: 0.75rem;
+  color: #EAF6F6;
+}
+
+.btn {
+	box-shadow:inset 0px -3px 7px 0px #29bbff;
+	background:linear-gradient(to bottom, #2dabf9 5%, #0688fa 100%);
+	background-color: #2980b9;
+	border-radius:8px;
+	border:0px solid #0b0e07;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:9px 23px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #3BC4AD 5%, #2BC4AD 100%);
+	background-color:#0688fa;
+}
